@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.dicey.bean.StudentProperties",
+      "name": "student",
+      "type": "org.dicey.bean.StudentProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.dicey.bean.StudentProperties",
+      "name": "student.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "org.dicey.bean.StudentProperties",
+      "name": "student.name",
+      "type": "java.lang.String"
+    }
+  ]
+}

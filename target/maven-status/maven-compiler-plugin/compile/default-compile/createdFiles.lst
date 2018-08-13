@@ -1,0 +1,7 @@
+org/dicey/mapper/UserMapper.class
+META-INF/spring-configuration-metadata.json
+org/dicey/HellospringbootApplication.class
+org/dicey/controller/UserController.class
+org/dicey/bean/StudentProperties.class
+org/dicey/hellospringboot/HelloController.class
+org/dicey/bean/User.class
