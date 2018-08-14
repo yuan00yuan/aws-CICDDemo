@@ -13,4 +13,3 @@ phases:
 artifacts:
   files:
     - target/test_springboot.jar
-    
