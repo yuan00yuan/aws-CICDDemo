@@ -1,3 +1,5 @@
 #!/bin/bash
-service httpd start
+# & 是静默,不在控制台输出日志
+# >spring_boot_log.txt 把日志输出到到 txt
+nohup java -jar /temp/test_springboot.jar >temp.txt &
 
