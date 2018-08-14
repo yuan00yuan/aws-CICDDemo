@@ -10,6 +10,6 @@ phases:
     commands:
       - echo Build completed on `date`
       - mvn package
-artifacts:
-  files:
-    - target/test_springboot.jar
+# artifacts:
+#   files:
+#     - target/test_springboot.jar
