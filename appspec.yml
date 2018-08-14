@@ -3,7 +3,10 @@ os: linux
 files:
   - source: /target/test_springboot.jar
 #  上传文件夹位置
-    destination: /tmp
+    destination: /spring_boot_demo
+  - source: /scripts/start_server
+    destination: /spring_boot_demo
+
 hooks:
   ApplicationStop:
     - location: scripts/stop_server
