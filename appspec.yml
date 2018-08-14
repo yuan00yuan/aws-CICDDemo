@@ -1,0 +1,6 @@
+version: 0.0
+os: linux
+files:
+  - source: ./test_springboot.jar
+#    上传到的 jar 包地址
+    destination: /tmp
