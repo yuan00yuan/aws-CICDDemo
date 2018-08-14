@@ -14,5 +14,4 @@ artifacts:
   files:
     - target/test_springboot.jar
     - appspec.yml
-    - 'scripts/**/*'
     - scripts
