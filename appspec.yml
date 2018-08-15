@@ -4,3 +4,4 @@ files:
   - source: /target/test_springboot.jar
 #  上传文件夹位置
     destination: /tmp
+    
