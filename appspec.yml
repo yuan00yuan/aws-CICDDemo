@@ -7,6 +7,7 @@ files:
 #  - source: /scripts/start_server
 #    destination: /spring_boot_demo
 
+#hooks:
 #  ApplicationStop:
 #    - location: scripts/stop_server
 ##    超时时间
