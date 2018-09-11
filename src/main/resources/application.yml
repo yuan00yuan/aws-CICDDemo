@@ -1,6 +1,3 @@
-student:
-  name: dicey
-  age: 22
 spring:
   datasource:
     url: jdbc:mysql://springboot-aurora.cwv8pqm4jp8m.rds.cn-northwest-1.amazonaws.com.cn:3306/aws_demo?useUnicode=true&characterEncoding=gbk&zeroDateT
